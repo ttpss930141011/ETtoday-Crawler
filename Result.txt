@@ -1,0 +1,327 @@
+,category,category2,href,title
+0,運動,NBA,https://sports.ettoday.net/news/1613902,Damian Lillard 全新鞋款Dame 6　RUTHLESS冷酷無情
+1,運動,NBA,https://sports.ettoday.net/news/1613869,唐西奇生涯前100場數據追上「大O」　難忘與柯瑞...
+2,運動,NBA,https://sports.ettoday.net/news/1613854,馬大偉運彩解盤／NBA太陽@拓荒者　挺莊買拓荒者
+3,運動,NBA,https://sports.ettoday.net/news/1613757,7呎約基奇2次背後運球「靈巧如控衛」　金塊一哥...
+4,運動,NBA,https://sports.ettoday.net/news/1613737,哈登本季首度缺陣　少了鬍子的球隊勝率還是超過5成
+5,運動,NBA,https://sports.ettoday.net/news/1613668,唐西奇聽到Kobe說他家鄉話好驚訝　黑曼巴當攝影...
+6,運動,NBA,https://sports.ettoday.net/news/1613686,球二哥有球隊了　加入雷霆發展聯盟擔任練習生
+7,運動,NBA,https://sports.ettoday.net/news/1613601,Kobe坐鎮洛城！詹皇9000助攻達標　唐西奇背部重...
+8,運動,NBA,https://sports.ettoday.net/news/1613567,活塞幹籃哥又傷了　葛瑞芬左膝不適恐高掛免戰牌
+9,運動,NBA,https://sports.ettoday.net/news/1613533,哈登、衛少掛免戰牌　球哥博爾27分10籃板8助攻宰...
+10,運動,NBA,https://sports.ettoday.net/news/1613481,雷霆小將致勝拋投砍32分　亞歷山大閃耀家鄉多倫...
+11,運動,NBA,https://sports.ettoday.net/news/1613381,詹皇奪美聯社近10年最佳男運動員　坦承想超賈霸...
+12,運動,SBL、WSBL,https://sports.ettoday.net/news/1613971,SBL／上半季賽程已過半　「單洋將效應」影響大
+13,運動,SBL、WSBL,https://sports.ettoday.net/news/1613929,SBL／新賽制最大變革　台啤再拿兩勝將令九太上半...
+14,運動,SBL、WSBL,https://sports.ettoday.net/news/1613900,SBL／桃園巨蛋來接棒　上半季最終賽程全在這
+15,運動,SBL、WSBL,https://sports.ettoday.net/news/1613280,SBL／巴克利自稱紀律嚴格　來台還沒喝過台啤
+16,運動,SBL、WSBL,https://sports.ettoday.net/news/1613291,SBL／防守拚勁換上場時間　簡偉儒7顆外線飆21分...
+17,運動,SBL、WSBL,https://sports.ettoday.net/news/1613283,SBL／高健益帶傷飆16分　台銀投丟36外線「打鐵之...
+18,運動,MLB,https://sports.ettoday.net/news/1613866,大聯盟10年工作經驗　王偉成在清華大學經驗分享
+19,運動,MLB,https://sports.ettoday.net/news/1613589,崔志萬繳出生涯年　讓光芒對筒香嘉智更有信心
+20,運動,MLB,https://sports.ettoday.net/news/1613473,2009年經典賽前10名潛力球星　金廣鉉最後一個抵...
+21,運動,中職,https://sports.ettoday.net/news/1613937,中職／林智勝重返50萬俱樂部　總人數恐無法再創紀錄
+22,運動,中職,https://sports.ettoday.net/news/1613887,中職／詹子賢今年打擊爆發　明年月薪破30萬
+23,運動,中職,https://sports.ettoday.net/news/1613838,中職／王威晨確定加薪　明年月薪拚30萬
+24,運動,中職,https://sports.ettoday.net/news/1613848,中職／富邦悍將3日辦洪總加盟儀式　宣布新的教練...
+25,運動,中職,https://sports.ettoday.net/news/1613841,中職／四隊都邀請過　克魯茲剩統一獅沒待過
+26,運動,中職,https://sports.ettoday.net/news/1613792,中職／樂天元年補強教練團　劉玠廷：人先補齊才...
+27,運動,中職,https://sports.ettoday.net/news/1613765,中職／二軍投手群龐大　桃猿盼外籍投教分擔林敬...
+28,運動,中職,https://sports.ettoday.net/news/1613774,中職／穿樂天重回前東家桃猿　林英傑：緣份太巧妙
+29,運動,中職,https://sports.ettoday.net/news/1613720,中職／桃猿榮幸邀請！克魯茲1月中報到待完春訓
+30,運動,中職,https://sports.ettoday.net/news/1613713,中職／找劉榮華擔任二軍教頭　樂天桃猿：多方推薦
+31,運動,中職,https://sports.ettoday.net/news/1613580,中職／樂天教練團沒有他們　吳俊良、郭建霖轉投富邦
+32,運動,中職,https://sports.ettoday.net/news/1613565,中職／林英傑擔任樂天桃猿牛棚教練　劉榮華二軍...
+33,運動,中職,https://sports.ettoday.net/news/1613557,中職／樂天桃猿教練團確定！克魯茲任客座　另有...
+34,運動,日、韓職,https://sports.ettoday.net/news/1613738,日職／近10年最強非日人　陳偉殷、陽岱鋼、許銘...
+35,運動,日、韓職,https://sports.ettoday.net/news/1613696,日職／日媒預測王柏融扛5棒DH　明年火線成長關鍵
+36,運動,日、韓職,https://sports.ettoday.net/news/1613589,崔志萬繳出生涯年　讓光芒對筒香嘉智更有信心
+37,運動,日、韓職,https://sports.ettoday.net/news/1613518,日職／比周東佑京更會盜　阪神植田海希望有更多...
+38,運動,日、韓職,https://sports.ettoday.net/news/1613473,2009年經典賽前10名潛力球星　金廣鉉最後一個抵...
+39,運動,國內業餘,https://sports.ettoday.net/news/1613955,新北U18／從平鎮轉學禁聯賽　張宇辰珍惜舞台打擊...
+40,運動,國內業餘,https://sports.ettoday.net/news/1613908,中日會長盃／美濃落敗要學態度　日本監督盛讚新明
+41,運動,國內業餘,https://sports.ettoday.net/news/1613849,新北U18／逸信・阿娜斯國小練田徑　棄野從投關鍵...
+42,運動,國內業餘,https://sports.ettoday.net/news/1613828,新北U18／因雨7局裁定勝　新竹市將與新北藍爭冠
+43,運動,國內業餘,https://sports.ettoday.net/news/1613657,新北U18／林岳谷生涯首支再見安打　凝重氛圍壓過...
+44,運動,國內業餘,https://sports.ettoday.net/news/1613629,新北U18／新北藍四強賽差點翻船　教頭動怒講重話
+45,運動,國際動態,https://sports.ettoday.net/news/1613345,德甲拜仁慕尼黑急刪文　「中華民國國旗+五星旗」...
+46,運動,技擊、球類,https://sports.ettoday.net/news/1613612,小威廉斯獲10年最佳女運動員　拜爾絲制霸2019
+47,運動,陸上、水上,https://sports.ettoday.net/news/1613748,東奧射箭國手第二階段選拔持續龍頭　林佳恩使出...
+48,運動,陸上、水上,https://sports.ettoday.net/news/1613692,企聯射箭／彭家楙難得黑色洋裝顯氣質　獲兩冠卻...
+49,運動,陸上、水上,https://sports.ettoday.net/news/1613663,企聯射箭／寒舍演逆轉秀摘元年冠軍　明年再提升...
+50,寵物動物,,http://pets.ettoday.net/news/1613706,貓咪偷球球...店員不驅趕！　將「打造球池」邀浪浪玩耍
+51,寵物動物,,http://pets.ettoday.net/news/1613700,倉鼠鬼打牆、喵皇優雅找路　「鏡子迷宮比賽」結局超意外！
+52,寵物動物,,http://pets.ettoday.net/news/1613571,歐告「誠懇臉」盯30分求散步　媽無奈喊：外面下雨，看我沒用啊
+53,寵物動物,,http://pets.ettoday.net/news/1613309,屁孩狂吸貓哥「腳掌」...牠厭世臉回擊！　身體卻很誠實按住人家
+54,寵物動物,,http://pets.ettoday.net/news/1613811,輪流顧馬麻！2柴柴換班「同步伸懶腰」　網笑：開放參觀嗎
+55,寵物動物,,http://pets.ettoday.net/news/1613365,我要減肥！肥貓奔馳3秒走下滾輪　倒地躺好「鮪魚肚狂抖」
+56,寵物動物,,http://pets.ettoday.net/news/1613501,英鬥聖誕節為給媽驚喜「特製雪花」附甜笑 她看完無言：真貼心
+57,寵物動物,,http://pets.ettoday.net/news/1613351,影／敷面膜炸毛瞪大眼！橘喵「內心世界崩塌」來回看3遍：妖..怪？
+58,寵物動物,,http://pets.ettoday.net/news/1613618,電視播總統辯論！　胖喵擋螢幕「以為手語小姐在逗貓」興奮狂抓
+59,寵物動物,,http://pets.ettoday.net/news/1613524,阿母回家了！萌柴睡夢中爬起「開飛機」　療癒笑容融化5千人
+60,寵物動物,,http://pets.ettoday.net/news/1613364,邊境牧羊犬第一次穿鞋「忘了怎麼走路」　舞獅步伐網笑翻！
+61,寵物動物,,http://pets.ettoday.net/news/1613311,單獨給把拔照顧...喵皇被惡搞5連拍！　肉泥塞肥肚也叫不醒
+62,寵物動物,,http://pets.ettoday.net/news/1613358,胖貓門口可憐討食「骨架跟隔壁強烈對比」　獸醫：別被牠騙了
+63,寵物動物,,http://pets.ettoday.net/news/1613795,等待10個月的家飛了...汪遭退養回收容所　落寞自己走進籠舍
+64,寵物動物,,http://pets.ettoday.net/news/1613698,喵星人眼神空洞...5秒後「冒出另一顆頭」　網嚇：有點不舒服
+65,寵物動物,,http://pets.ettoday.net/news/1613444,3貓遭鎖頂加倉庫狂哭哭　金鐘女主持怒堵飼主…搶救幫找家
+66,寵物動物,,http://pets.ettoday.net/news/1613398,影／老鷹捉小雞反遭包圍猛啄　獲救表情「懷疑鳥生」
+67,寵物動物,,http://pets.ettoday.net/news/1613037,影／2狗打架分不開　黑狗飼主竟拿長刀與噴火槍對付比特犬
+68,寵物動物,,http://pets.ettoday.net/news/1613353,三峽農田放捕獸鋏趕台灣獼猴　2幼仔送醫死亡剩母猴搶救
+69,寵物動物,,http://pets.ettoday.net/news/1613442,月台踹導盲犬！黑帽男遭勸阻回嗆「有證據嗎？」　正義女：我還真的有
+70,寵物動物,,http://pets.ettoday.net/news/1613551,主子化身「將棋界」老手！　超高妙計驚呆奴才：我認輸
+71,寵物動物,,http://pets.ettoday.net/news/1606779,北海道棕熊去年827頭遭捕殺　「三毛別棕熊襲擊事件」又來了？
+72,寵物動物,,http://pets.ettoday.net/news/1613961,露牙打呼到忘我！　酣睡汪「被自己嚇醒」憨呆表情超爆笑
+73,寵物動物,,http://pets.ettoday.net/news/1613706,貓咪偷球球...店員不驅趕！　將「打造球池」邀浪浪玩耍
+74,寵物動物,,http://pets.ettoday.net/news/1613700,倉鼠鬼打牆、喵皇優雅找路　「鏡子迷宮比賽」結局超意外！
+75,寵物動物,,http://pets.ettoday.net/news/1613571,歐告「誠懇臉」盯30分求散步　媽無奈喊：外面下雨，看我沒用啊
+76,寵物動物,,http://pets.ettoday.net/news/1613309,屁孩狂吸貓哥「腳掌」...牠厭世臉回擊！　身體卻很誠實按住人家
+77,寵物動物,,http://pets.ettoday.net/news/1613811,輪流顧馬麻！2柴柴換班「同步伸懶腰」　網笑：開放參觀嗎
+78,寵物動物,,http://pets.ettoday.net/news/1613673,泰國侏儒河馬寶寶命名票選　「滷肉」獲65%得票率當選
+79,寵物動物,,http://pets.ettoday.net/news/1613795,等待10個月的家飛了...汪遭退養回收容所　落寞自己走進籠舍
+80,寵物動物,,http://pets.ettoday.net/news/1613365,我要減肥！肥貓奔馳3秒走下滾輪　倒地躺好「鮪魚肚狂抖」
+81,寵物動物,,http://pets.ettoday.net/news/1610094,狗狗常「紅腫抓不停」是獸醫院常客？　試試多補充Omega-6改善皮脂保護力
+82,寵物動物,,http://pets.ettoday.net/news/1613501,英鬥聖誕節為給媽驚喜「特製雪花」附甜笑 她看完無言：真貼心
+83,寵物動物,,http://pets.ettoday.net/news/1613351,影／敷面膜炸毛瞪大眼！橘喵「內心世界崩塌」來回看3遍：妖..怪？
+84,寵物動物,,http://pets.ettoday.net/news/1596097,汪汪爆吼想咬人！「1招」制伏家中小兇犬...安靜放下最有效
+85,寵物動物,,http://pets.ettoday.net/news/1613698,喵星人眼神空洞...5秒後「冒出另一顆頭」　網嚇：有點不舒服
+86,寵物動物,,http://pets.ettoday.net/news/1613444,3貓遭鎖頂加倉庫狂哭哭　金鐘女主持怒堵飼主…搶救幫找家
+87,寵物動物,,http://pets.ettoday.net/news/1613618,電視播總統辯論！　胖喵擋螢幕「以為手語小姐在逗貓」興奮狂抓
+88,寵物動物,,http://pets.ettoday.net/news/1613524,阿母回家了！萌柴睡夢中爬起「開飛機」　療癒笑容融化5千人
+89,寵物動物,,http://pets.ettoday.net/news/1613364,邊境牧羊犬第一次穿鞋「忘了怎麼走路」　舞獅步伐網笑翻！
+90,寵物動物,,https://pets.ettoday.net/video/125/195970?&page=1,憨笑汪趁奴才不在「開聖誕趴」 飼主見客廳夢幻雪景照：頭大了
+91,寵物動物,,https://pets.ettoday.net/video/125/195956?&page=1,阿金醒來見家裡沒人森氣氣！　滾床碎唸到卡痰網笑：好委屈
+92,寵物動物,,https://pets.ettoday.net/video/125/195947?&page=1,「未成年」歐告半夜偷蹓躂遭逮 翻肚賣萌求饒！爸：這罵不下去
+93,寵物動物,,https://pets.ettoday.net/video/125/195916?&page=1,米克斯汪「笑眼+飛機耳」求原諒 露招牌笑容網融化：捨不得罵啊
+94,健康,,https://health.ettoday.net/news/1612929,網聊從「路人甲→理想型」！3大曖昧話題幫感情加溫...差一步告白
+95,健康,,https://health.ettoday.net/news/1613721,2020年是翻轉年！命理師解析「遠航v.s星宇」下場大不同：老企業小心了
+96,健康,,https://health.ettoday.net/news/1613930,偏鄉兒心百里醫情！臺大醫院雲林分院遠距學童心臟篩檢　醫師群助判讀
+97,健康,,https://health.ettoday.net/news/1613760,韓式炸雞＝9顆方糖！盤點「5大爆糖」超夯美食...配啤酒更母湯
+98,健康,,https://health.ettoday.net/news/1613697,不哭就給你糖...老用甜食獎勵孩子？　專家曝「超負面影響」
+99,健康,,https://health.ettoday.net/news/1613817,秋冬酷酷嗽逾2個月...小心6大症狀　醫：可能是肺癌或肺結核
+100,健康,,https://health.ettoday.net/news/1613735,【健康小學堂】「脂肪肝」恐致癌變！還與肥胖息息相關？
+101,健康,,https://health.ettoday.net/news/1596097,汪汪爆吼想咬人！「1招」制伏家中小兇犬...安靜放下最有效
+102,健康,,https://health.ettoday.net/news/1613600,老感覺心跳加速...小心會減壽！醫曝「隱藏風險」：血管健康拉警報
+103,健康,,https://health.ettoday.net/news/1613637,竹科高管手握數十億合約...失眠一個月變「大怒神」　醫：小心腦萎縮
+104,健康,,https://health.ettoday.net/news/1613428,超過4成國人體重過重！國衛院攜手長庚、宏碁打造「肥胖症智慧預測系統」
+105,健康,,https://health.ettoday.net/news/1613597,突破圍牆相互支援！花蓮中西醫推雙向轉診　享優免掛號費福利
+106,健康,,https://health.ettoday.net/news/1613468,感冒別傻吞維他命！營養師揭「10大營養素」食物吃的到：免疫力激升
+107,健康,,https://health.ettoday.net/news/1613495,食材到底哪來？ 北市推「夜市微笑標章QR code」一掃全看清
+108,健康,,https://health.ettoday.net/news/1613530,腦麻兒家長不要放棄！中西醫合療為腦麻病童開啟一扇窗
+109,健康,,https://health.ettoday.net/news/1613479,多數人錯了！醫揭過度換氣「誤用塑膠袋」恐窒息...正確步驟公開
+110,健康,,https://health.ettoday.net/news/1613483,韓國瑜談能源遭轟「比漱口杯還不如」　環團舉6點打臉「只有唬爛」
+111,健康,,https://health.ettoday.net/news/1612289,貴的真有效？醫破解「眼霜迷思」…秒拉提、除皺＝求心安
+112,健康,,https://health.ettoday.net/news/1557824,近視雷射度數又加深！3年後回診「竟增300度」醫揭2原因
+113,健康,,https://health.ettoday.net/news/1612004,鼠衝一發能脫單！12生肖「跨年運勢」出爐...虎馬本週抽上上籤
+114,健康,,https://health.ettoday.net/news/1613288,2大特徵分辨「青蔥、青蒜」　專家解析「營養成分」：價值超高
+115,健康,,https://health.ettoday.net/news/1613930,偏鄉兒心百里醫情！臺大醫院雲林分院遠距學童心臟篩檢　醫師群助判讀
+116,健康,,https://health.ettoday.net/news/1613817,秋冬酷酷嗽逾2個月...小心6大症狀　醫：可能是肺癌或肺結核
+117,健康,,https://health.ettoday.net/news/1613796,取得帕金森氏症原廠藥　美時獲芬蘭最大藥廠獨家經銷代理權
+118,健康,,https://health.ettoday.net/news/1613637,竹科高管手握數十億合約...失眠一個月變「大怒神」　醫：小心腦萎縮
+119,健康,,https://health.ettoday.net/news/1613428,超過4成國人體重過重！國衛院攜手長庚、宏碁打造「肥胖症智慧預測系統」
+120,健康,,https://health.ettoday.net/news/1613530,腦麻兒家長不要放棄！中西醫合療為腦麻病童開啟一扇窗
+121,健康,,https://health.ettoday.net/news/1613760,韓式炸雞＝9顆方糖！盤點「5大爆糖」超夯美食...配啤酒更母湯
+122,健康,,https://health.ettoday.net/news/1613468,感冒別傻吞維他命！營養師揭「10大營養素」食物吃的到：免疫力激升
+123,健康,,https://health.ettoday.net/news/1613495,食材到底哪來？ 北市推「夜市微笑標章QR code」一掃全看清
+124,健康,,https://health.ettoday.net/news/1613288,2大特徵分辨「青蔥、青蒜」　專家解析「營養成分」：價值超高
+125,政治,,https://www.ettoday.net//news/20191230/1613872.htm,民進黨強過《反滲透法》！苦苓舉「12個擔心」曝原因：這是「誘鉺」
+126,影劇,,https://www.ettoday.net//news/20191230/1613998.htm,車銀優一親...女主持喊「長大了」！對視申世景獲MBC演技大賞CP獎
+127,寵物動物,,https://www.ettoday.net//news/20191230/1613992.htm,「是不是你把罐罐吃掉的？」狗狗學人愛說教　腳搭肩柔情勸導
+128,影劇,,https://www.ettoday.net//news/20191230/1613991.htm,李㼈拍《親戚不計較》爆紅卻淡出！　「外面可以找3個」吐娛樂圈內幕
+129,影劇,,https://www.ettoday.net//news/20191230/1613985.htm,元元遭母怒嗆「讀書沒有用」！　「3個小孩只有我沒上大學」媽：錢能省則省
+130,影劇,,https://www.ettoday.net//news/20191230/1613987.htm,陳昇連莊26年開唱...「後台備電鑽按摩槍」！嗨唱5小時不停歇
+131,寵物動物,,https://www.ettoday.net//news/20191230/1613981.htm,姊戴的不是墨鏡…是氣場！辣個全宇宙最適合戴墨鏡的狗
+132,生活,,https://www.ettoday.net//news/20191230/1613994.htm,教保高手齊聚嘉藥　比創意秀巧思
+133,地方,,https://www.ettoday.net//news/20191230/1613990.htm,台南東區33位里長聯合舉辦「元旦升旗典禮」　洪秀柱喊出「護憲保台三部曲」
+134,網搜,,https://www.ettoday.net//news/20191230/1613941.htm,院子養魚莫名消失　高雄女氣炸調監視器…揪出「白色小偷」：X的吃很爽！
+135,寵物動物,,https://www.ettoday.net//news/20191230/1613781.htm,媽被反鎖在外！　機靈貓「聽指令」伸貓爪成功開門解圍
+136,社會,,https://www.ettoday.net//news/20191230/1613986.htm,快訊／台北艋舺公園發生鬥毆事件　2男身上多處穿刺傷急救
+137,大陸,,https://www.ettoday.net//news/20191230/1613921.htm,抓正妹胸2次！警方到場一秒變醉漢...朝天空茫喊「再也不喝啦」
+138,地方,,https://www.ettoday.net//news/20191230/1613984.htm,洪秀柱喊護憲保台　羅智強「獻頭」挺柱
+139,國際,,https://www.ettoday.net//news/20191230/1613935.htm,10歲童翻牆進廢棄空地！下一秒遭6犬包圍狂咬　救出已斷氣
+140,影劇,,https://www.ettoday.net//news/20191230/1613394.htm,MTV對蕾哈娜下最後通牒：「今年剩3天，快交出來！」
+141,影劇,,https://www.ettoday.net//news/20191230/1613982.htm,韓志旼認了拍《春夜》對丁海寅有心動：不管那時還是現在都好帥
+142,時尚,,https://www.ettoday.net//news/20191230/1613768.htm,2020美妝保養趨勢7大重點　「時短」高效護膚、Pantone色持續夯
+143,消費,,https://www.ettoday.net//news/20191230/1611908.htm,潔西卡艾芭的5分鐘幾何眼線妝
+144,影劇,,https://www.ettoday.net//news/20191230/1613980.htm,蘿莉系女神遭惡剪「1小時嬌喘片」！　公司怒告…結果出爐：源頭不詳全案簽結
+145,旅遊,,https://www.ettoday.net//news/20191230/1613880.htm,走進童話世界！日本東北必看6大雪景　走訪銀山溫泉、看東北最大夜間點燈
+146,影劇,,https://www.ettoday.net//news/20191230/1613979.htm,蔡依林噴奶音撩翻全場...霸氣撕「少男殺手」標籤：那是你的屎！
+147,體育,,https://www.ettoday.net//news/20191230/1613971.htm,SBL／上半季賽程已過半　「單洋將效應」影響大
+148,健康,,https://www.ettoday.net//news/20191230/1612929.htm,網聊從「路人甲→理想型」！3大曖昧話題幫感情加溫...差一步告白
+149,財經,,https://www.ettoday.net//news/20191230/1613977.htm,新台幣強升至一年半新高　科技廠「匯」心痛
+150,軍武,,https://www.ettoday.net//news/20191230/1613670.htm,成功首飛！解放軍送巴基斯坦「梟龍Block 3」　預計量產50架應對印度
+151,寵物動物,,https://www.ettoday.net//news/20191230/1613551.htm,主子化身「將棋界」老手！　超高妙計驚呆奴才：我認輸
+152,時尚,,https://www.ettoday.net//news/20191230/1613777.htm,2020信義區跨年攻略！百貨、餐廳營業時間懶人包
+153,國際,,https://www.ettoday.net//news/20191230/1606324.htm,7個月嬰兒上任德州懷特霍爾市長　議員：每個人都想抱他散步
+154,影劇,,https://www.ettoday.net//news/20191230/1613975.htm,《偶然發現的一天》A3合體！呂珠多唱一半出現：我女人喜歡草莓
+155,寵物動物,,https://www.ettoday.net//news/20191230/1606779.htm,北海道棕熊去年827頭遭捕殺　「三毛別棕熊襲擊事件」又來了？
+156,影劇,,https://www.ettoday.net//news/20191230/1613976.htm,吳敦義剛走...恬娃以「忠貞國民黨員身分」道歉：我代表他向國人對不起！
+157,影劇,,https://www.ettoday.net//news/20191230/1613970.htm,日本神社看見5塊一定要撿！　「代表一段緣分」吳宗憲：台灣是冥婚
+158,房產雲,,https://www.ettoday.net//news/20191230/1597004.htm,美國新宅V.S.80、90後買房「供不應求」　預測：2020首購族50％申請房貸
+159,政治,,https://www.ettoday.net//news/20191230/1613966.htm,韓國瑜爆走罵媒體「扣分」　柯文哲：頭殼壞去
+160,影劇,,https://www.ettoday.net//news/20191230/1613969.htm,陳小春吃飯問同桌：奶奶幾歲了？　一聽出生年月「根本同齡」筷子停住了
+161,ET車雲,,https://www.ettoday.net//news/20191230/1613962.htm,台北車展／賓利第3代Flying Spur開價1420萬起！最速休旅同台演出
+162,財經,,https://www.ettoday.net//news/20191230/1613968.htm,華映員工薪資欠款有解　股臨會通過處分土地、廠房
+163,國際,,https://www.ettoday.net//news/20191230/1612538.htm,被風吹進冰川！滑雪場「禁用塑膠製品」　義大利搶下歐洲第一例
+164,寵物動物,,https://www.ettoday.net//news/20191230/1613961.htm,露牙打呼到忘我！　酣睡汪「被自己嚇醒」憨呆表情超爆笑
+165,大陸,,https://www.ettoday.net//news/20191230/1613863.htm,美批中鎮壓西藏、新疆是為抹殺信仰文化　耿爽反酸：手伸太長會閃到腰
+166,地方,,https://www.ettoday.net//news/20191230/1613638.htm,親民黨環台送愛新竹站！　宣明智端城隍廟美食款待
+167,影劇,,https://www.ettoday.net//news/20191230/1613964.htm,MBC演技大賞新人獎《偶然發現的一天》全包了！主演3人都得獎
+168,軍武,,https://www.ettoday.net//news/20191230/1613947.htm,西藏空域封鎖20分鐘！　網推測：太原試射靶彈西藏攔截
+169,3C家電,,https://www.ettoday.net//news/20191230/1613920.htm,LG冰箱裡能種菜！家庭「室內菜圃」超專業　4口人都夠吃
+170,影劇,,https://www.ettoday.net//news/20191230/1613928.htm,元元存款百萬離家出走！　曝背後原因「跟媽媽有關」
+171,政治,,https://www.ettoday.net//news/20191230/1613960.htm,2020總統大選民眾「積極依賴社群平台」　臉書首次在台設立戰情室
+172,時尚,,https://www.ettoday.net//news/20191230/1609177.htm,仙女部落客鄭雅勻公開年度最愛好貨！法國元老級香水回頭率100%
+173,大陸,,https://www.ettoday.net//news/20191230/1613915.htm,騎腳踏車撞男童落跑！男子被攔怒罵髒話...下秒竟「離奇暴斃」
+174,社會,,https://www.ettoday.net//news/20191230/1613957.htm,竹科女酒後被撲倒　痛失第一次陷憂鬱…5個月後才發現懷孕了
+175,財經,,https://www.ettoday.net//news/20191230/1613864.htm,法人看2020年台股還有高點可期　蘋果供應鏈首季淡季不淡
+176,寵物動物,,https://www.ettoday.net//news/20191230/1613706.htm,貓咪偷球球...店員不驅趕！　將「打造球池」邀浪浪玩耍
+177,財經,,https://www.ettoday.net//news/20191230/1613703.htm,影／2020年房市將崩跌？　房產達人不擔心「只會小跌、自住可以、投資不必」
+178,保險,,https://www.ettoday.net//news/20191230/1613958.htm,春節各項保險給付「提前1星期發放」！全球人壽：保單借款也要儘早完成申請
+179,體育,,https://www.ettoday.net//news/20191230/1613955.htm,新北U18／從平鎮轉學禁聯賽　張宇辰珍惜舞台打擊衝前3名
+180,寵物動物,,https://www.ettoday.net//news/20191230/1613700.htm,倉鼠鬼打牆、喵皇優雅找路　「鏡子迷宮比賽」結局超意外！
+181,體育,,https://www.ettoday.net//news/20191230/1613959.htm,擊退保齡球世界盃國手鄭行超　工程師莊承儒奪MVP
+182,大陸,,https://www.ettoday.net//news/20191230/1613924.htm,27歲外送員目睹路人遭撞飛！「緊抱痛哭男童」延誤20分　4客狂催單給他負評
+183,體育,,https://www.ettoday.net//news/20191230/1613937.htm,中職／林智勝重返50萬俱樂部　總人數恐無法再創紀錄
+184,ET車雲,,https://www.ettoday.net//news/20191230/1613945.htm,台北車展／Taycan、冠軍賽車抵台　保時捷展區「不鎖門」超大方
+185,社會,,https://www.ettoday.net//news/20191230/1613953.htm,2019倒數壞消息再一件！連千毅蹲監獄　老東家「蘭庭國際」切割回歸直播
+186,影劇,,https://www.ettoday.net//news/20191230/1613952.htm,尖叫！蔡依林真的「提頭」見歌迷... 登7層樓高霸氣空降小巨蛋
+187,財經,,https://www.ettoday.net//news/20191230/1613954.htm,長華電持股天正3%　進軍被動元件及半導體設備市場
+188,財經,,https://www.ettoday.net//news/20191230/1613951.htm,富邦投信成富邦金100%持有子公司　史綱轉任投信董座
+189,社會,,https://www.ettoday.net//news/20191230/1613939.htm,影／搶4萬現金、516張刮刮樂！他躲賓館狂刮...只中幾萬　警方4小時偵破
+190,社會,,https://www.ettoday.net//news/20191230/1613839.htm,妻子不回家過夜　3寶爸衝她公司…驚見綠光真相「老闆只穿內褲」
+191,健康,,https://www.ettoday.net//news/20191230/1613721.htm,2020年是翻轉年！命理師解析「遠航v.s星宇」下場大不同：老企業小心了
+192,財經,,https://www.ettoday.net//news/20191230/1613931.htm,大陸明年啟動社保新規　會計師：台幹雙重參保隱憂浮現
+193,政治,,https://www.ettoday.net//news/20191230/1613525.htm,戴寧打算提告　就讀台大復旦EMBA「被抹紅」
+194,影劇,,https://www.ettoday.net//news/20191230/1613942.htm,玄彬隊上小兵顏值爆表「連孫藝真都認證」！　討論度超高…網大讚：像金秀賢
+195,社會,,https://www.ettoday.net//news/20191230/1613842.htm,影／台北收藏家「龜狂」工作室失火！哥吉拉模型全毀　至少損失200萬元
+196,影劇,,https://www.ettoday.net//news/20191230/1613946.htm,韓國瑜辯論提「處男」...恬娃氣炸：那我就處女！　心痛淌血「他不講話還可能當選」
+197,體育,,https://www.ettoday.net//news/20191230/1613929.htm,SBL／新賽制最大變革　台啤再拿兩勝將令九太上半季無緣爭冠
+198,政治,,https://www.ettoday.net//news/20191230/1613587.htm,封關前民調52.5%選民選擇英德配　游盈隆：政黨認同是關鍵因素
+199,地方,,https://www.ettoday.net//news/20191230/1613943.htm,台南 2020 跨年倒數　南警維安滴水不漏
+200,影劇,,https://www.ettoday.net//news/20191230/1613925.htm,總統辯論吵翻天！　潔哥「以為尊重想法很容易」嘆：為何爭得你死我活
+201,時尚,,https://www.ettoday.net//news/20191230/1613892.htm,日本女生瘋「奶昔日」減重　網友親試一周甩3kg
+202,政治,,https://www.ettoday.net//news/20191230/1613566.htm,影／藍批蔡英文「不是為反滲透」是為選情　國親兩黨力阻選前強通關
+203,社會,,https://www.ettoday.net//news/20191230/1613938.htm,反滲透法朝野攻防　北市警宣布立院周遭交管防抗議衝突
+204,地方,,https://www.ettoday.net//news/20191230/1613927.htm,李武龍成立抓鬼大隊　呼籲選民勇於檢舉賄選、拒絕賄選
+205,政治,,https://www.ettoday.net//news/20191230/1613940.htm,郭台銘合體宋楚瑜脫口「棄韓保宋」　郭辦：投票是個人意志
+206,地方,,https://www.ettoday.net//news/20191230/1613930.htm,偏鄉兒心百里醫情！臺大醫院雲林分院遠距學童心臟篩檢　醫師群助判讀
+207,影劇,,https://www.ettoday.net//news/20191230/1613918.htm,韓庚、盧靖姍結婚了！紐西蘭婚禮現場曝光…喜帖「藏浪漫密碼」
+208,國際,,https://www.ettoday.net//news/20191230/1613824.htm,到處都是總理的臉　紐西蘭人推「#TurnArdern」運動把她翻過去
+209,政治,,https://www.ettoday.net//news/20191230/1613287.htm,影／吳怡農12/31生日快樂！　政治處女秀討論爆表：「政治人物變表演者」...想改變
+210,社會,,https://www.ettoday.net//news/20191230/1613749.htm,影／前總經理「連降4級」被貶掃廁所！下班遭4黑衣人包圍巴頭：在公司別亂講話
+211,生活,,https://www.ettoday.net//news/20191230/1613512.htm,2019政治事件神回顧！鄉民成語小教室創意爆棚　「四字箴言」瘋傳網笑爛
+212,影劇,,https://www.ettoday.net//news/20191230/1613919.htm,《奈何BOSS》徐開騁拍古裝劇！　「白色仙衣」帥暈粉…5選角造型首曝光
+213,社會,,https://www.ettoday.net//news/20191230/1613926.htm,新竹地下賭盤「讓盤數字曝光」　1個月多1倍！他：政見辯論後更恐怖
+214,社會,,https://www.ettoday.net//news/20191230/1613876.htm,影／北市畜產公司前老總當街被巴頭　黑衣人嗆「我知道你住哪裡」
+215,生活,,https://www.ettoday.net//news/20191230/1613923.htm,嚴防非洲豬瘟！違法用廚餘養豬…農委會祭重罰最高300萬
+216,寵物動物,,https://www.ettoday.net//news/20191230/1613571.htm,歐告「誠懇臉」盯30分求散步　媽無奈喊：外面下雨，看我沒用啊
+217,影劇,,https://www.ettoday.net//news/20191230/1613922.htm,文夏被餵毒3個月後「增胖到31公斤」　文香：他精神好還要坐輪椅
+218,社會,,https://www.ettoday.net//news/20191230/1613909.htm,爆料「戲說一姊」棄養公公、當小三挨告…又恐嚇她老公再判賠
+219,國際,,https://www.ettoday.net//news/20191230/1613885.htm,英國《衛報》報導：台灣大選是公民與「假新聞」的戰爭
+220,消費,,https://www.ettoday.net//news/20191230/1613691.htm,【廣編】ATT瘋跨年！免費桂格5X陪你一起嗨
+221,社會,,https://www.ettoday.net//news/20191230/1613906.htm,健身男未帶會員卡...秒爆氣飆櫃台妹：舔地板！他辯「土下座」被打腫臉
+222,社會,,https://www.ettoday.net//news/20191230/1613899.htm,花蓮台8線落石砸車！「碰」一聲擋風玻璃秒碎裂　駕駛頭腳撕裂傷急送醫
+223,地方,,https://www.ettoday.net//news/20191230/1613913.htm,蘇花改1/6通車！宜蘭市區公車「羅東─花蓮」前3日免費　最低票價100元
+224,地方,,https://www.ettoday.net//news/20191230/1613877.htm,雲林蒜農北上請命　張嘉郡籲農委會遵守承諾調高進口蒜頭關稅
+225,國際,,https://www.ettoday.net//news/20191230/1613661.htm,邋遢女室友裸體煮飯！房東返家撞見　她氣罵怎不鎖門
+226,政治,,https://www.ettoday.net//news/20191230/1613916.htm,英粉、韓粉注意！穿飛行外套夾克投票恐被罰1.5萬
+227,影劇,,https://www.ettoday.net//news/20191230/1613875.htm,《青春有你2》宣布音樂導師！　邀來「女子天團成員」網嗨翻
+228,政治,,https://www.ettoday.net//news/20191230/1613911.htm,台南第二選區／控藍營抹黑　郭國文委託律師告周五六
+229,政治,,https://www.ettoday.net//news/20191230/1613904.htm,綠營控謝淑亞違法插旗幟　謝辦：支持者自發性作為，若有疏漏歡迎告知
+230,社會,,https://www.ettoday.net//news/20191230/1613843.htm,已婚工程師吃2國中妹！分手逼「再來一次」…遭拒竟傳裸照給她新歡
+231,生活,,https://www.ettoday.net//news/20191230/1613907.htm,每小時120顆流星！2020首波流星雨1月4日大爆發...錯過再等半年
+232,體育,,https://www.ettoday.net//news/20191230/1613908.htm,中日會長盃／美濃落敗要學態度　日本監督盛讚新明
+233,生活,,https://www.ettoday.net//news/20191230/1613893.htm,女大生「恐雨症」宿舍點蠟燭蠶絲被起火　政大：學生承諾不再用
+234,生活,,https://www.ettoday.net//news/20191230/1613815.htm,【英語多益通】回顧2019必知的3個單字
+235,時尚,,https://www.ettoday.net//news/20191230/1611821.htm,球鞋控必收！2019年度十雙女孩最愛的火紅球鞋盤點
+236,生活,,https://www.ettoday.net//news/20191230/1613818.htm,陸客大減後...來台旅客數連3個月下跌！　「單月都未破百萬」
+237,財經,,https://www.ettoday.net//news/20191230/1613799.htm,未來10年最具優勢的職業大預言！　行為科學家、數據分析師、服裝設計師都上榜
+238,政治,,https://www.ettoday.net//news/20191230/1613903.htm,600公里「愛國家、愛國旗」傳愛路跑　鄭正鈐扛國旗陪跑
+239,地方,,https://www.ettoday.net//news/20191230/1613898.htm,觀音樹林里首創以蓮花池打造生態滯洪系統　可望續創防災社區特優佳績
+240,社會,,https://www.ettoday.net//news/20191230/1613901.htm,無罪！老兵1張發票詐走喜憨兒60包餅乾　法官全因這心酸原因
+241,體育,,https://www.ettoday.net//news/20191230/1613902.htm,Damian Lillard 全新鞋款Dame 6　RUTHLESS冷酷無情
+242,體育,,https://www.ettoday.net//news/20191230/1613900.htm,SBL／桃園巨蛋來接棒　上半季最終賽程全在這
+243,國際,,https://www.ettoday.net//news/20191230/1613786.htm,外科醫師解剖秋刀魚！成果超驚人...魚刺毫無受損被取下
+244,生活,,https://www.ettoday.net//news/20191230/1613895.htm,「空軍三重一村」奪新北取景榜首！《與惡》一鏡到底水湳洞漁港也成熱門景點
+245,社會,,https://www.ettoday.net//news/20191230/1613896.htm,簽4點切結書答應斷人夫...小三被抓包要「賠200萬」！正宮崩潰：他們還拍婚紗
+246,國際,,https://www.ettoday.net//news/20191230/1613377.htm,塞行李袋2小時悶死！5歲女童全身2/3瘀青　狠母辯：今天沒打她
+247,體育,,https://www.ettoday.net//news/20191230/1613869.htm,唐西奇生涯前100場數據追上「大O」　難忘與柯瑞合練：他不會投丟
+248,健康,,https://www.ettoday.net//news/20191230/1613760.htm,韓式炸雞＝9顆方糖！盤點「5大爆糖」超夯美食...配啤酒更母湯
+249,政治,,https://www.ettoday.net//news/20191230/1613890.htm,韓國瑜遭疑辯論會「脫鞋搓腳」　王淺秋嗆：凸顯對手格局之小
+250,社會,,https://www.ettoday.net//news/20191230/1613780.htm,「搓湯圓」當選無效！基隆女里長30萬勸退對手　辦餐會辯「社區發展」
+251,影劇,,https://www.ettoday.net//news/20191230/1613881.htm,鍾麗緹9歲女兒「完美複製媽媽美貌」！　走秀氣場網讚：超模架勢十足
+252,影劇,,https://www.ettoday.net//news/20191230/1613888.htm,《愛的迫降》和北韓有多相似？玄彬飆車救美　脫北者洩：是金正恩故事
+253,國際,,https://www.ettoday.net//news/20191230/1613753.htm,葉門親政府軍隊「閱兵典禮」遇飛彈攻擊！地面炸出大坑至少10死21傷
+254,地方,,https://www.ettoday.net//news/20191230/1613862.htm,看護風雨中推輪椅婦好茫然　平鎮警帶回派出所照料
+255,消費,,https://www.ettoday.net//news/20191230/1604204.htm,房屋買賣糾紛三大地雷別踩！　看屋買屋自保關鍵揭秘
+256,生活,,https://www.ettoday.net//news/20191230/1613886.htm,長榮航空飛行學院在台招生！　2020年起每年對外招收50名自費學員
+257,寵物動物,,https://www.ettoday.net//news/20191230/1613309.htm,屁孩狂吸貓哥「腳掌」...牠厭世臉回擊！　身體卻很誠實按住人家
+258,生活,,https://www.ettoday.net//news/20191230/1613846.htm,拖鞋滴滿不明液體！人妻蹲下細看...「嘉明味撲鼻」崩潰：是哪裡吸引你
+259,影劇,,https://www.ettoday.net//news/20191230/1613871.htm,蔡依林巡演登場！張惠妹送「神物」應援...歌迷cosplay巨型玫瑰朝聖
+260,影劇,,https://www.ettoday.net//news/20191230/1613857.htm,獨家／《角頭》男星大庭廣眾「露屁股」　羞吐「兒時悲慘疤痕」
+261,保險,,https://www.ettoday.net//news/20191230/1613836.htm,市場首張身障者專屬保單來了　中壽提供4大便利服務超貼心
+262,體育,,https://www.ettoday.net//news/20191230/1613887.htm,中職／詹子賢今年打擊爆發　明年月薪破30萬
+263,國際,,https://www.ettoday.net//news/20191230/1613823.htm,過年幫媽外送！22歲女大生慘遭「性侵3天」殺害棄屍　判決出爐...現場民眾鼓掌
+264,房產雲,,https://www.ettoday.net//news/20191230/1612801.htm,貿易戰資金回流　「南霸天」京城建設總經理：北高雄房市再旺5年！
+265,國際,,https://www.ettoday.net/news/20191230/1613551.htm,主子化身「將棋界」老手！　超高妙計驚呆奴才：我認輸
+266,國際,,https://www.ettoday.net/news/20191230/1606324.htm,7個月嬰兒上任德州懷特霍爾市長　議員：每個人都想抱他散步
+267,國際,,https://www.ettoday.net/news/20191230/1606779.htm,北海道棕熊去年827頭遭捕殺　「三毛別棕熊襲擊事件」又來了？
+268,國際,,https://www.ettoday.net/news/20191230/1597004.htm,美國新宅V.S.80、90後買房「供不應求」　預測：2020首購族50％申請房貸
+269,國際,,https://www.ettoday.net/news/20191230/1612538.htm,被風吹進冰川！滑雪場「禁用塑膠製品」　義大利搶下歐洲第一例
+270,國際,,https://www.ettoday.net/news/20191230/1613706.htm,貓咪偷球球...店員不驅趕！　將「打造球池」邀浪浪玩耍
+271,國際,,https://www.ettoday.net/news/20191230/1613824.htm,到處都是總理的臉　紐西蘭人推「#TurnArdern」運動把她翻過去
+272,國際,,https://www.ettoday.net/news/20191230/1613885.htm,英國《衛報》報導：台灣大選是公民與「假新聞」的戰爭
+273,國際,,https://www.ettoday.net/news/20191230/1613661.htm,邋遢女室友裸體煮飯！房東返家撞見　她氣罵怎不鎖門
+274,國際,,https://www.ettoday.net/news/20191230/1613786.htm,外科醫師解剖秋刀魚！成果超驚人...魚刺毫無受損被取下
+275,國際,,https://www.ettoday.net/news/20191230/1613377.htm,塞行李袋2小時悶死！5歲女童全身2/3瘀青　狠母辯：今天沒打她
+276,國際,,https://www.ettoday.net/news/20191230/1613753.htm,葉門親政府軍隊「閱兵典禮」遇飛彈攻擊！地面炸出大坑至少10死21傷
+277,國際,,https://www.ettoday.net/news/20191230/1613823.htm,過年幫媽外送！22歲女大生慘遭「性侵3天」殺害棄屍　判決出爐...現場民眾鼓掌
+278,國際,,https://www.ettoday.net/news/20191230/1613380.htm,吃泡麵狂噴、麵條飛頭上！妥瑞症歐巴示範「簡單小事有多難」　幽默吸20萬粉
+279,國際,,https://www.ettoday.net/news/20191230/1613808.htm,母聖誕節前夕癌逝…留下7子女　鄰居慨送「堆積如山」禮物陪過節
+280,國際,,https://www.ettoday.net/news/20191230/1613800.htm,美軍空襲是「恐攻鐵證」！　伊朗：停止干涉伊拉克內政
+281,國際,,https://www.ettoday.net/news/20191230/1613673.htm,泰國侏儒河馬寶寶命名票選　「滷肉」獲65%得票率當選
+282,國際,,https://www.ettoday.net/news/20191230/1613560.htm,全球最冷村莊「奧伊米亞康」居民把熱麵條放在-50˚C室外　2分鐘變冰棒
+283,國際,,https://www.ettoday.net/news/20191230/1613424.htm,監視器傳「陌生男聲」誘3童「靠近鏡頭一點」！爸嚇歪怒告亞馬遜Ring
+284,國際,,https://www.ettoday.net/news/20191230/1613688.htm,揭桑柏格「憂鬱4年」拒絕進食　父親不支持她罷課：我很擔心
+285,國際,,https://www.ettoday.net/news/20191230/1613731.htm,南韓宣布特赦5174人「朴槿惠不在列」　文在寅上任後第3次
+286,國際,,https://www.ettoday.net/news/20191230/1613348.htm,和談現曙光！塔利班同意「暫時停火」　2周內和阿富汗政府協商
+287,國際,,https://www.ettoday.net/news/20191230/1613702.htm,師生戀差39歲！教授槍殺「女大生戀人」分屍塞包　塑膠袋裹「殘缺斷腿」現河中
+288,國際,,https://www.ettoday.net/news/20191230/1613404.htm,男友模仿遊戲節目狂問怪問題　她傻傻作答才發現「自己被求婚了」
+289,國際,,https://www.ettoday.net/news/20191230/1613558.htm,走進隔壁廢棄房屋找貓…花園驚見「無頭無手」男屍！　警朝謀殺調查
+290,國際,,https://www.ettoday.net/news/20191230/1613383.htm,為省22元過路費！3車「停高速公路中央」...等待免費時段到來
+291,國際,,https://www.ettoday.net/news/20191230/1613339.htm,家裡到處藏錢！夫妻淚收親戚遺物「58萬鈔票」直接丟進回收場
+292,國際,,https://www.ettoday.net/news/20191230/1613342.htm,美國情報阻止「俄羅斯新年遭遇恐攻」　普丁致電感謝川普
+293,國際,,https://www.ettoday.net/news/20191230/1613704.htm,東奧場館內發現石棉　東京都將採應急對策
+294,國際,,https://www.ettoday.net/news/20191230/1613421.htm,路邊站一排比基尼辣妹熱舞　男駕駛停車嚇到：旁邊好多棺材！
+295,國際,,https://www.ettoday.net/news/20191230/1613689.htm,因應少子高齡化等　東京部分稅收將分給其他地區
+296,國際,,https://www.ettoday.net/news/20191230/1598431.htm,美國2019年再融資借貸創18年新高　「屋主多選擇套現」12年來最多
+297,國際,,https://www.ettoday.net/news/20191230/1613441.htm,機場驚見美腿！「黑絲襪+高跟鞋」...真面目曝：竟是穿西裝大叔
+298,國際,,https://www.ettoday.net/news/20191230/1613431.htm,家附近沒床位…81歲嬤「奔波480km」看病　返家死在高速公路
+299,國際,,https://www.ettoday.net/news/20191230/1612781.htm,史達林8千萬防彈車遭盜　重達4噸...6賊動用拖車拉走
+300,國際,,https://www.ettoday.net/news/20191230/1613343.htm,越南前傳媒部長被判無期徒刑　收賄320萬美元放行收購案
+301,國際,,https://www.ettoday.net/news/20191230/1613398.htm,影／老鷹捉小雞反遭包圍猛啄　獲救表情「懷疑鳥生」
+302,國際,,https://www.ettoday.net/news/20191230/1613515.htm,每戶發600萬現金！ 　加拿大為省錢請偏鄉居民「棄村搬家」
+303,國際,,https://www.ettoday.net/news/20191230/1613528.htm,家中深夜傳詭異敲打聲　夫妻害怕躲衣櫥...報警見到「凶手」大傻眼
+304,國際,,https://www.ettoday.net/news/20191230/1613508.htm,老公的逆襲！最強聖誕禮物…大腿上刺妻「張嘴多層雙下巴」醜照
+305,國際,,https://www.ettoday.net/news/20191230/1613355.htm,無核化協商年底大限最後倒數　美軍偵察機持續監視朝鮮半島
+306,國際,,https://www.ettoday.net/news/20191230/1613335.htm,輪椅被擋！伯「暴怒猛搖梯子」油漆工墜3樓「重摔人行道」畫面曝光
+307,國際,,https://www.ettoday.net/news/20191230/1613344.htm,3子都不是親生！兒生病他捐血卻「血液不吻合」  驗DNA才知被綠了
+308,國際,,https://www.ettoday.net/news/20191230/1613379.htm,寒流發威帶走50命　孟加拉現4.5度低溫持續到2020年
+309,國際,,https://www.ettoday.net/news/20191230/1613317.htm,獲獎記者揭露貪腐「推特罵法官」　遭警察帶走恐被關1年
+310,國際,,https://www.ettoday.net/news/20191230/1613392.htm,甜甜圈店相識分手　情侶27年後重回舊地結婚：一切從這裡開始
+311,國際,,https://www.ettoday.net/news/20191230/1613341.htm,烏克蘭與親俄分離份子「換囚200人」　親友團圓緊擁淚灑機場
+312,國際,,https://www.ettoday.net/news/20191230/1613354.htm,金正恩：將採「積極攻勢」保障國家體制　北韓五中全會邁入第二天
+313,國際,,https://www.ettoday.net/news/20191230/1613425.htm,聖誕禮物收「放大鏡」太嗨　12歲童意外燒毀院子：燈都融掉了！
+314,國際,,https://www.ettoday.net/news/20191230/1613390.htm,美轟炸真主黨旅「劍指伊朗」　蓬佩奧：無法容忍危及美國人的行動
+315,國際,,https://www.ettoday.net/news/20191230/1613314.htm,普丁引用文件稱「波蘭也造成二戰」　波蘭總理怒嗆：說謊！
+316,國際,,https://www.ettoday.net/news/20191230/1613332.htm,澳洲野火狂燒「維多利亞州」飆破40°C上萬人撤離！預計惡化到31日
+317,國際,,https://www.ettoday.net/news/20191230/1613345.htm,德甲拜仁慕尼黑急刪文　「中華民國國旗+五星旗」一夜消失
+318,國際,,https://www.ettoday.net/news/20191230/1613301.htm,跨性別男懷孕產子！捐精者也是「跨性別女」　與伴侶組最前衛家庭
+319,國際,,https://www.ettoday.net/news/20191230/1613322.htm,美馬里蘭州小飛機墜毀民宅「點燃火海」1死　周邊房屋震動
+320,國際,,https://www.ettoday.net/news/20191230/1613300.htm,北韓若試射飛彈　白宮國安顧問：美方會很失望「將採取行動」
+321,國際,,https://www.ettoday.net/news/20191230/1613304.htm,美軍空襲伊拉克敘利亞境內「真主黨旅」5據點　已釀25死55傷
+322,國際,,https://www.ettoday.net/news/20191230/1613298.htm,猶太儀式遇攻擊5人遭刺傷！嫌「開車40分鐘」行兇　身上沾血被逮
+323,國際,,https://www.ettoday.net/news/20191230/1613296.htm,槍擊畫面曝！德州教堂遭槍手掃射...2死1重傷　警衛挺身遭射殺
+324,國際,,https://www.ettoday.net/news/20191230/1613214.htm,UFO現蹤時速1600km「神速飛行」？不明光球墜地表　美國曝6秒影片證實了
+325,國際,,https://www.ettoday.net/news/20191229/1613268.htm,無邊際海景足湯、看日本最美夕陽！和歌山白濱溫泉鄉必去景點懶人包
